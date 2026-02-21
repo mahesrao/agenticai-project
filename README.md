@@ -1,15 +1,7 @@
 # agenticai-project
 
-This is a clean, structured Markdown version of your instructions. I have organized it with headers, code blocks, and clear steps to make it easy to read on GitHub.
 
-```markdown
-# Installation and Configuration of code-server (VS Code in the Browser)
-
-This guide provides instructions for installing `code-server` on a Linux environment (specifically RHEL/Ubuntu) to allow access to VS Code via a web browser.
-
----
-
-## 1. Installation
+## 1. Installation of code-server (VS Code in the Browser)
 Run the following script to download and install the latest version of `code-server`:
 
 ```bash
